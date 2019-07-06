@@ -12,10 +12,10 @@
 * 三个软件
 
 arduino
-![](img/Aduino.png)
+![](screenshot/Arduino.png)
 
 fritizing
-![](img/fritizing.png)
+![](screenshot/fritizing.png)
 
 processing
 ![](img/processing.png)
