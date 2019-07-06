@@ -1,7 +1,7 @@
 # l-
-#开源硬件
+# 开源硬件
 
-##7.2
+## 7.2
 
 * 为什么学习开源
 
@@ -60,9 +60,9 @@ void Morse::w_space()
 }
 `
 
-##7.4car和数极管
+## 7.4car和数极管
 
-###car
+### car
 ![](img/car.png)
 代码
 void setup()
@@ -136,7 +136,7 @@ void loop()
 }
 }
 
-###数管
+### 数管
 ![]（img/数管.jpg）
 
 代码
@@ -175,7 +175,7 @@ void loop()
        }
 
 
-##7.5Morse的tinkecad实现 
+## 7.5Morse的tinkecad实现 
 ![](img/morse.jpg)
 int pin = 13;
 void setup()
