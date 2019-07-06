@@ -18,7 +18,7 @@ fritizing
 ![](screenshot/fritizing.png)
 
 processing
-![](img/processing.png)
+![](screenshot/processing.png)
 
 ##7.3Arduino与Morse
 `#include "Arduino.h"
@@ -63,7 +63,7 @@ void Morse::w_space()
 ## 7.4car和数极管
 
 ### car
-![](img/car.png)
+![](screenshot/car.png)
 代码
 void setup()
 {
@@ -137,7 +137,7 @@ void loop()
 }
 
 ### 数管
-![]（img/数管.jpg）
+![]（7.4/数管.jpg）
 
 代码
 void setup()
@@ -176,7 +176,7 @@ void loop()
 
 
 ## 7.5Morse的tinkecad实现 
-![](img/morse.jpg)
+![](Morse模拟/morse.jpg)
 int pin = 13;
 void setup()
 {
